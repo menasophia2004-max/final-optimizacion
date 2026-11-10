@@ -1,0 +1,4 @@
+pulp<4
+pandas
+streamlit
+plotly
